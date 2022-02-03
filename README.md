@@ -1,0 +1,2 @@
+Hi.
+I am Shahid Gulzar Padder. I have did my bachelors in Electronics and Communication Engineering at Lovely Professional University(LPU), India. Currently, I am pursuing my masters degree in Computer Science for Autonomous Systems at Eötvös Loránd University (ELTE), Hungary. I am interested in Machine Learning related to electronics and currently finding ways to take up my knowledge in this field 
